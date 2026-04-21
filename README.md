@@ -43,7 +43,7 @@
 - Backend system for managing patients, appointments, and reports  
 - Built scalable APIs using FastAPI and PostgreSQL  
 - Optimized SQL queries for efficient data handling  
-
+🔗 https://github.com/aarushhii30/Hospital-Management
 ---
 
 ## 📌 What I'm Working On  
