@@ -45,7 +45,7 @@
 - Backend system for generating, tracking, and managing invoices  
 - Includes CRUD operations, payment status tracking & reporting  
 - Built with Node.js / Express / Database integration  
-🔗 https://github.com/your-username/invoice-management  
+🔗 https://github.com/aarushhii30/Invoice-Management
 
 ---
 
