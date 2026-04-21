@@ -9,7 +9,7 @@
 - ⚡ Skilled in **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🔐 Experience in building **REST APIs & JWT Authentication systems**  
 - 📊 Developed real-world projects like **O2C Management System** and **Expense Sharing App**  
-- 🌱 Currently exploring **Next.js & Machine Learning**  
+- 🌱 Currently exploring **Next.js & Machine Learning**   
 
 ---
 🌐 Portfolio Website
