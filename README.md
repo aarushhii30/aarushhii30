@@ -55,6 +55,18 @@
 - Features include invoice status updates, due date tracking, and reports
 - 🔗 https://github.com/aarushhii30/invoice-management
 
+  ### 🧠 AI Medical Code Suggestion System
+**Tech Stack:** Spring Boot, Python, FastAPI, PostgreSQL  
+
+- Developed a terminology system aligning AYUSH concepts with ICD-11 (TM2 & Biomedicine)
+- Enabled fast full-text search and efficient medical code retrieval
+- Supported clinical decision-making and interoperability use cases  
+
+**🔹 My Contribution:**
+- Built the frontend interface for user interaction
+- Worked on handling and integrating machine learning models for prediction workflows
+- 🔗 https://github.com/aarushhii30/invoice-management
+
 ## 📌 What I'm Working On  
 
 - 🚀 Building full stack applications using MERN stack  
