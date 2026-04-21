@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarushi%20Sharma&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Backend%20Enthusiast&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarushi%20Sharma&fontSize=55&fontColor=fff&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Backend%20Enthusiast&descAlignY=60&descSize=16" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aarushi+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Backend+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Applications+%F0%9F%8C%90;Exploring+Next.js+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aarushi+%F0%9F%91%8B;Aspiring+AI+%2F+ML+Engineer+%7C+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Backend+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Applications+%F0%9F%8C%90;Exploring+Next.js+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/><br/>
