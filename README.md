@@ -21,28 +21,53 @@
 
 ---
 
-## 🔥 Featured Projects  
+---
 
-### 💸 SplitEase – Expense Sharing App  
+---
+
+## 🔥 Featured Projects
+
+### 💸 SplitEase – Expense Sharing App
 - MERN-based full stack app with group expense tracking & balance calculation  
 - JWT authentication and real-time updates  
 🔗 https://github.com/aarushhii30/SplitEase--App  
 
 ---
 
-### 🧾 Order-to-Cash (O2C) Management System  
+### 🧾 Order-to-Cash (O2C) Management System
 - Backend system for order, invoice, and payment lifecycle  
 - Built with Node.js, Express & MongoDB  
 🔗 https://github.com/aarushhii30/o2c-project  
 
 ---
 
-## 📌 What I'm Working On  
+### 🧮 Invoice Management System
+- Backend system for generating, tracking, and managing invoices  
+- Includes CRUD operations, payment status tracking & reporting  
+- Built with Node.js / Express / Database integration  
+🔗 https://github.com/your-username/invoice-management  
 
-- 🚀 Building full stack applications using MERN stack  
-- 📚 Practicing Data Structures & Algorithms  
-- 🌐 Learning Next.js for optimized frontend development  
+---
 
+### 🏥 Hospital Management System
+- Backend system for managing patients, appointments & reports  
+- Built with FastAPI & PostgreSQL  
+🔗 https://github.com/sarthakksingh/Hospital-Appointment-Backend  
+
+---
+
+## 📌 What I'm Working On
+
+- 🚀 Building scalable backend systems  
+- 🤖 Exploring Machine Learning projects  
+- 🌐 Improving full-stack development skills  
+---
+
+## 📌 What I'm Working On
+
+- 🚀 Building scalable backend systems  
+- 🤖 Exploring Machine Learning projects  
+- 🌐 Improving full-stack development skills  
 ---
 
 ## 🤝 Connect with Me  
