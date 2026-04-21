@@ -12,6 +12,10 @@
 - 🌱 Currently exploring **Next.js & Machine Learning**  
 
 ---
+🌐 Portfolio Website
+- Personal portfolio built using React and deployed on Vercel
+- Showcases projects, skills, and resume
+- 🔗 https://aarushisharmaportfolio.vercel.app/
 
 ## 🛠 Tech Stack  
 
@@ -45,6 +49,11 @@
 - Optimized SQL queries for efficient data handling  
 🔗 https://github.com/aarushhii30/Hospital-Management
 ---
+📄 Invoice Management System
+- Full-stack application for invoice creation, tracking, and payment management
+- Implemented RESTful APIs for invoices, customers, and transactions
+- Features include invoice status updates, due date tracking, and reports
+- 🔗 https://github.com/aarushhii30/invoice-management
 
 ## 📌 What I'm Working On  
 
