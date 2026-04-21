@@ -73,4 +73,4 @@
 ## 🤝 Connect with Me  
 
 - 📧 Email: aarushhiisharma@gmail.com  
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/aarushhiisharma/
