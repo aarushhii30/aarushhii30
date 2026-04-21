@@ -26,12 +26,13 @@
 
 ## 🚀 About Me
 
-- 🖥️ Aspiring **Full Stack Developer** with a strong focus on scalable web applications
-- ⚡ Skilled in **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🔐 Experience in building **REST APIs** & **JWT Authentication** systems
-- 🌟 Built real-world projects: **SplitEase**, **O2C Management**, **Hospital Management** & more
-- 🤖 Contributed to **AI Medical Code Suggestion System** using AYUSH + ICD-11
-- 🌱 Currently exploring **Next.js** & **Machine Learning**
+- 💻 Aspiring **AI & Machine Learning Engineer** with experience in scalable web applications  
+- ⚡ Skilled in **MERN Stack** (MongoDB, Express, React, Node.js)  
+- 🤖 Hands-on experience in **Machine Learning, NLP & predictive models**  
+- 🔐 Experience in building **REST APIs** & **JWT Authentication** systems  
+- 🧠 Contributed to **AI Medical Code Suggestion System** (ML + FastAPI + ICD-11)  
+- 🛠️ Built real-world projects: **SplitEase**, **O2C Management**, **Hospital Management** & more  
+- 🌱 Currently exploring **Next.js, LLMs & Advanced Machine Learning**  
 - 🌐 Portfolio: [aarushisharmaportfolio.vercel.app](https://aarushisharmaportfolio.vercel.app/)
 
 ---
