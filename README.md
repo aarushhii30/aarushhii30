@@ -197,13 +197,12 @@ An AI-powered medical terminology system bridging AYUSH concepts with internatio
 
 | 🎯 Goal | 📈 Status |
 |---|---|
-| Become a skilled Full Stack Developer | 🔥 In Progress |
-| Build scalable real-world applications | ✅ Ongoing |
+| Become a skilled **AI / Machine Learning Engineer** | 🔥 In Progress |
+| Build scalable AI-powered & full-stack applications | ✅ Ongoing |
+| Master **Machine Learning, NLP & real-world model deployment** | 📚 Learning |
 | Master Next.js & Advanced React | 📖 Learning |
-| Contribute to Open Source | 🚀 Starting Soon |
-| Improve problem-solving skills | ♾️ Always |
-
----
+| Contribute to Open Source (AI / Web projects) | 🚀 Starting Soon |
+| Improve problem-solving skills (DSA) | ♾️ Always |
 
 ## 🤝 Connect with Me
 
