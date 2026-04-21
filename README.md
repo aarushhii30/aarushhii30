@@ -52,7 +52,7 @@
 ### 🏥 Hospital Management System
 - Backend system for managing patients, appointments & reports  
 - Built with FastAPI & PostgreSQL  
-🔗 https://github.com/sarthakksingh/Hospital-Appointment-Backend  
+🔗https://github.com/aarushhii30/Hospital-Management-Backend 
 
 ---
 
