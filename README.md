@@ -65,7 +65,7 @@
 **🔹 My Contribution:**
 - Built the frontend interface for user interaction
 - Worked on handling and integrating machine learning models for prediction workflows
-- 🔗 https://github.com/aarushhii30/invoice-management
+- 🔗 https://github.com/aarushhii30/NAMASTE-Frontend
 
 ## 📌 What I'm Working On  
 
