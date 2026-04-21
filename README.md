@@ -5,10 +5,10 @@
 
 ## 🚀 About Me  
 
-- 💻 Aspiring **Full Stack Developer**  
-- ⚡ Skilled in MERN Stack & Backend Development  
-- 🔐 Experience with REST APIs & JWT Authentication  
-- 📊 Built real-world projects like O2C System & Expense Tracker  
+- 💻 Aspiring **Full Stack Developer** with focus on scalable web applications  
+- ⚡ Skilled in **MERN Stack & Backend Development**  
+- 🔐 Experience in building REST APIs and implementing JWT Authentication  
+- 📊 Built real-world projects like **O2C Management System** and **Expense Tracker**  
 - 🌱 Currently exploring **Next.js & Machine Learning**  
 
 ---
@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack  
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,postgres,git" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,postgres,git" />
 </p>
 
 ---
@@ -37,15 +37,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 What I'm Working On  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aarushhii30&show_icons=true&theme=tokyonight" />
-</p>
+- 🚀 Building full stack applications using MERN stack  
+- 📚 Practicing Data Structures & Algorithms  
+- 🌐 Learning Next.js for optimized frontend development  
 
 ---
 
 ## 🤝 Connect with Me  
 
 - 📧 Email: aarushhiisharma@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/aarushhiisharma/
+- 💼 LinkedIn: (add your link here)
