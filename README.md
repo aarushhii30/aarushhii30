@@ -1,73 +1,65 @@
 <h1 align="center">Hi 👋, I'm Aarushi Sharma</h1>
-<h3 align="center">Aspiring Full Stack Developer | MERN | Backend Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack | Backend Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me  
 
-- 💻 Aspiring **Full Stack Developer** with focus on scalable web applications  
-- ⚡ Skilled in **MERN Stack & Backend Development**  
-- 🔐 Experience in building REST APIs and implementing JWT Authentication  
-- 📊 Built real-world projects like **O2C Management System** and **Expense Tracker**  
+- 💻 Aspiring **Full Stack Developer** with strong focus on scalable web applications  
+- ⚡ Skilled in **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🔐 Experience in building **REST APIs & JWT Authentication systems**  
+- 📊 Developed real-world projects like **O2C Management System** and **Expense Sharing App**  
 - 🌱 Currently exploring **Next.js & Machine Learning**  
 
 ---
 
 ## 🛠 Tech Stack  
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,postgres,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,postgres,git,github" />
 </p>
 
 ---
 
----
+## 🔥 Featured Projects  
 
----
-
-## 🔥 Featured Projects
-
-### 💸 SplitEase – Expense Sharing App
-- MERN-based full stack app with group expense tracking & balance calculation  
-- JWT authentication and real-time updates  
+### 💸 SplitEase – Expense Sharing Application  
+- MERN-based full stack application with group expense tracking  
+- Real-time balance calculation and settlement features  
+- Implemented secure authentication using JWT  
 🔗 https://github.com/aarushhii30/SplitEase--App  
 
 ---
 
-### 🧾 Order-to-Cash (O2C) Management System
-- Backend system for order, invoice, and payment lifecycle  
-- Built with Node.js, Express & MongoDB  
+### 🧾 Order-to-Cash (O2C) Management System  
+- Backend system handling order, invoice, and payment lifecycle  
+- Designed RESTful APIs for customers, orders, and transactions  
+- Implemented business logic for invoice tracking and overdue detection  
 🔗 https://github.com/aarushhii30/o2c-project  
 
 ---
 
-### 🧮 Invoice Management System
-- Backend system for generating, tracking, and managing invoices  
-- Includes CRUD operations, payment status tracking & reporting  
-- Built with Node.js / Express / Database integration  
-🔗 https://github.com/aarushhii30/Invoice-Management
+### 🏥 Hospital Management System  
+- Backend system for managing patients, appointments, and reports  
+- Built scalable APIs using FastAPI and PostgreSQL  
+- Optimized SQL queries for efficient data handling  
 
 ---
 
-### 🏥 Hospital Management System
-- Backend system for managing patients, appointments & reports  
-- Built with FastAPI & PostgreSQL  
-🔗https://github.com/aarushhii30/Hospital-Management-Backend 
+## 📌 What I'm Working On  
+
+- 🚀 Building full stack applications using MERN stack  
+- 📚 Practicing Data Structures & Algorithms  
+- 🌐 Learning Next.js for modern frontend development  
 
 ---
 
-## 📌 What I'm Working On
+## 🎯 Goals  
 
-- 🚀 Building scalable backend systems  
-- 🤖 Exploring Machine Learning projects  
-- 🌐 Improving full-stack development skills  
----
+- 🔹 Become a skilled Full Stack Developer  
+- 🔹 Build scalable real-world applications  
+- 🔹 Continuously improve problem-solving skills  
 
-## 📌 What I'm Working On
-
-- 🚀 Building scalable backend systems  
-- 🤖 Exploring Machine Learning projects  
-- 🌐 Improving full-stack development skills  
 ---
 
 ## 🤝 Connect with Me  
