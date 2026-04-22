@@ -30,7 +30,7 @@
 - ⚡ Skilled in **MERN Stack** (MongoDB, Express, React, Node.js)  
 - 🤖 Hands-on experience in **Machine Learning, NLP & predictive models**  
 - 🔐 Experience in building **REST APIs** & **JWT Authentication** systems  
-- 🧠 Contributed to **AI Medical Code Suggestion System** (ML + FastAPI + ICD-11)  
+- 🧠 Contributed to **AI Medical Code Suggestion System(NAMASTE CODES)** (ML + FastAPI + ICD-11)  
 - 🛠️ Built real-world projects: **SplitEase**, **O2C Management**, **Hospital Management** & more  
 - 🌱 Currently exploring **Next.js, LLMs & Advanced Machine Learning**  
 - 🌐 Portfolio: [aarushisharmaportfolio.vercel.app](https://aarushisharmaportfolio.vercel.app/)
