@@ -181,7 +181,29 @@ An AI-powered medical terminology system bridging AYUSH concepts with internatio
 
 ---
 
+# 🚗 ADAS Vehicle Monitoring System
 
+A real-time **computer vision system** for detecting, tracking, and analyzing vehicle behavior from traffic video streams — simulating the perception layer of modern driver assistance systems.
+
+> **Computer Vision** | Object Tracking | Safety Alerts
+
+---
+
+## ✨ Features
+
+| ✨ Feature | 📋 Description |
+|-----------|----------------|
+| 🔍 Vehicle Detection | Detect vehicles in real-time using YOLOv8 |
+| 🎯 Multi-object Tracking | Assign and maintain unique IDs via DeepSORT |
+| ⚡ Speed Estimation | Approximate vehicle speed in km/h |
+| 📐 Distance Estimation | Estimate following distance in meters |
+| 🚨 Overspeed Detection | Trigger alerts when speed threshold exceeded |
+| ⚠️ Collision Risk Warning | Flag vehicles within unsafe proximity |
+| 🛣️ Lane Detection | Identify and visualize lane boundaries |
+| 📊 FPS Display | Real-time performance monitoring overlay |
+
+**Stack:** `Python` `OpenCV` `YOLOv8` `DeepSORT` `NumPy`
+[![View Repo](https://img.shields.io/badge/GitHubADAS-Vehicle-Monitoring-System-a855f7?style=for-the-badge&logo=github)](https://github.com/aarushhii30/ADAS-Vehicle-Monitoring-System)
 
 
 ## 🎯 What I'm Working On
