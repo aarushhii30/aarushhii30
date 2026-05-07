@@ -205,6 +205,23 @@ A real-time **computer vision system** for detecting, tracking, and analyzing ve
 **Stack:** `Python` `OpenCV` `YOLOv8` `DeepSORT` `NumPy`
 [![View Repo](https://img.shields.io/badge/GitHubADAS-Vehicle-Monitoring-System-a855f7?style=for-the-badge&logo=github)](https://github.com/aarushhii30/ADAS-Vehicle-Monitoring-System)
 
+### 🛒 AI Shopping Agent
+> **Full Stack** | Conversational AI | Shopify Integration
+
+A premium AI-powered shopping assistant handling product discovery, smart recommendations, cart management, and real-time search with a conversational chat interface.
+
+| ✨ Feature | 📝 Description |
+|---|---|
+| 🤖 AI Chat Assistant | Conversational product discovery with smart suggestions |
+| 🔍 Product Search | Real-time search, filters, and product comparison |
+| 🛍️ Cart Management | Smooth cart sidebar with product detail modal |
+| 💡 Recommendations | Personalized product recommendations per session |
+| 📊 Categories | Browse and filter by Shopify collections |
+
+**Stack:** `Node.js` `Express.js` `React` `Shopify Admin API` `Tailwind CSS`
+
+[![View Repo](https://img.shields.io/badge/GitHub-AI--Shopping--Agent-a855f7?style=for-the-badge&logo=github)](https://github.com/aarushhii30/AI-shopping-agent)
+
 
 ## 🎯 What I'm Working On
 
