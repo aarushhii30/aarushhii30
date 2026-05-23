@@ -205,6 +205,8 @@ A real-time **computer vision system** for detecting, tracking, and analyzing ve
 **Stack:** `Python` `OpenCV` `YOLOv8` `DeepSORT` `NumPy`
 [![View Repo](https://img.shields.io/badge/GitHubADAS-Vehicle-Monitoring-System-a855f7?style=for-the-badge&logo=github)](https://github.com/aarushhii30/ADAS-Vehicle-Monitoring-System)
 
+---
+
 ### 🛒 AI Shopping Agent
 > **Full Stack** | Conversational AI | Shopify Integration
 
@@ -222,6 +224,30 @@ A premium AI-powered shopping assistant handling product discovery, smart recomm
 
 [![View Repo](https://img.shields.io/badge/GitHub-AI--Shopping--Agent-a855f7?style=for-the-badge&logo=github)](https://github.com/aarushhii30/AI-shopping-agent)
 
+---
+
+### ✅ TaskFlow – Student Task Manager
+> **MERN Stack** | Full Stack | JWT Auth | Live Deployed
+
+A sleek, full-stack task management web app built for students — manage tasks, set priorities, track due dates, and stay organized with a beautiful dark UI.
+
+| ✨ Feature | 📝 Description |
+|---|---|
+| 📋 Task CRUD | Create, edit, delete, and complete tasks with one click |
+| 🔐 JWT Auth | Secure signup & login with protected routes per user |
+| 🔍 Instant Search | Client-side search across task titles & descriptions |
+| 🔔 Overdue Alerts | Bell notification banner for overdue tasks |
+| 🖱️ Drag & Drop | Reorder tasks intuitively with drag & drop |
+| 🎯 Filter & Sort | Filter by status/priority, sort by date or urgency |
+| 📊 Live Stats | Real-time dashboard — total, pending, done, high priority |
+| ☁️ Deployed | Live on Vercel (frontend) + Render (backend) |
+
+**Stack:** `React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `CSS Modules`
+
+[![View Repo](https://img.shields.io/badge/GitHub-TaskFlow--Student--Manager-a855f7?style=for-the-badge&logo=github)](https://github.com/aarushhii30/student-task-manager)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://student-task-manager-taupe-psi.vercel.app)
+
+---
 
 ## 🎯 What I'm Working On
 
